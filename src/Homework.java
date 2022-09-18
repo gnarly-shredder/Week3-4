@@ -57,7 +57,7 @@ public class Homework {
 		// 12.)
 		System.out.println(willBuyDrink(true, 9.3));
 		// 13.)
-		boolean[] prop13Votes = {false, false, true, false, true, false, false, false, true, true, true, true};
+		boolean[] prop13Votes = {false, false, true, false, true, true, false, false, false, true, true, true, true};
 		System.out.println(electionResult(prop13Votes));
 	}
 	   
